@@ -1,0 +1,121 @@
+event_id,client_id,event_type,event_date,location
+E001,C026,Wedding,2025-08-21,Mosul
+E002,C018,Engagement,2025-08-20,Baghdad
+E003,C031,Engagement,2025-08-22,Baghdad
+E004,C012,Birthday,2025-07-02,Najaf
+E005,C011,Wedding,2025-07-14,Erbil
+E006,C048,Wedding,2025-09-20,Najaf
+E007,C029,Baby Shower,2025-07-09,Erbil
+E008,C045,Birthday,2025-07-02,Erbil
+E009,C025,Wedding,2025-07-31,Erbil
+E010,C001,Baby Shower,2025-08-18,Erbil
+E011,C035,Birthday,2025-09-05,Baghdad
+E012,C027,Wedding,2025-09-27,Mosul
+E013,C006,Engagement,2025-08-11,Baghdad
+E014,C033,Baby Shower,2025-09-03,Baghdad
+E015,C028,Birthday,2025-08-19,Najaf
+E016,C004,Engagement,2025-09-01,Najaf
+E017,C024,Engagement,2025-07-16,Erbil
+E018,C042,Birthday,2025-07-09,Mosul
+E019,C010,Birthday,2025-08-12,Najaf
+E020,C042,Graduation,2025-07-12,Basra
+E021,C046,Birthday,2025-08-23,Najaf
+E022,C030,Birthday,2025-07-24,Basra
+E023,C027,Wedding,2025-09-29,Baghdad
+E024,C034,Baby Shower,2025-08-21,Baghdad
+E025,C030,Graduation,2025-08-08,Najaf
+E026,C046,Wedding,2025-08-29,Najaf
+E027,C035,Birthday,2025-07-09,Erbil
+E028,C002,Engagement,2025-09-09,Baghdad
+E029,C020,Baby Shower,2025-09-08,Basra
+E030,C036,Graduation,2025-07-31,Basra
+E031,C030,Graduation,2025-08-24,Basra
+E032,C037,Wedding,2025-09-28,Baghdad
+E033,C003,Baby Shower,2025-07-03,Mosul
+E034,C015,Birthday,2025-09-12,Basra
+E035,C045,Graduation,2025-08-07,Basra
+E036,C019,Wedding,2025-07-08,Mosul
+E037,C028,Engagement,2025-09-18,Erbil
+E038,C030,Wedding,2025-08-09,Basra
+E039,C045,Birthday,2025-08-30,Baghdad
+E040,C006,Birthday,2025-07-18,Mosul
+E041,C024,Baby Shower,2025-08-29,Baghdad
+E042,C032,Engagement,2025-08-09,Najaf
+E043,C003,Baby Shower,2025-08-14,Mosul
+E044,C023,Graduation,2025-07-16,Basra
+E045,C046,Birthday,2025-07-02,Mosul
+E046,C004,Baby Shower,2025-09-12,Mosul
+E047,C050,Birthday,2025-09-18,Mosul
+E048,C046,Graduation,2025-08-05,Mosul
+E049,C036,Baby Shower,2025-09-16,Baghdad
+E050,C017,Engagement,2025-08-21,Najaf
+E051,C033,Graduation,2025-08-23,Basra
+E052,C044,Baby Shower,2025-07-19,Erbil
+E053,C019,Wedding,2025-08-24,Baghdad
+E054,C005,Graduation,2025-07-31,Basra
+E055,C039,Wedding,2025-08-21,Mosul
+E056,C026,Graduation,2025-07-19,Erbil
+E057,C031,Birthday,2025-09-25,Basra
+E058,C020,Birthday,2025-08-23,Basra
+E059,C039,Engagement,2025-07-07,Basra
+E060,C041,Baby Shower,2025-08-04,Basra
+E061,C005,Birthday,2025-09-18,Mosul
+E062,C010,Graduation,2025-09-04,Erbil
+E063,C049,Baby Shower,2025-08-28,Najaf
+E064,C003,Engagement,2025-08-24,Basra
+E065,C004,Engagement,2025-09-07,Erbil
+E066,C021,Wedding,2025-08-31,Basra
+E067,C019,Graduation,2025-07-10,Erbil
+E068,C023,Graduation,2025-07-30,Basra
+E069,C011,Graduation,2025-09-18,Basra
+E070,C037,Birthday,2025-09-18,Baghdad
+E071,C005,Graduation,2025-08-23,Najaf
+E072,C022,Graduation,2025-07-27,Mosul
+E073,C030,Engagement,2025-07-06,Mosul
+E074,C035,Graduation,2025-07-27,Mosul
+E075,C030,Engagement,2025-07-28,Najaf
+E076,C012,Graduation,2025-09-06,Mosul
+E077,C007,Birthday,2025-08-11,Najaf
+E078,C020,Baby Shower,2025-09-10,Erbil
+E079,C045,Wedding,2025-08-01,Erbil
+E080,C025,Baby Shower,2025-07-12,Baghdad
+E081,C007,Baby Shower,2025-08-14,Basra
+E082,C050,Graduation,2025-07-31,Basra
+E083,C032,Graduation,2025-09-02,Baghdad
+E084,C010,Baby Shower,2025-09-13,Erbil
+E085,C015,Baby Shower,2025-08-29,Basra
+E086,C012,Wedding,2025-09-19,Basra
+E087,C014,Graduation,2025-08-11,Baghdad
+E088,C025,Graduation,2025-08-13,Baghdad
+E089,C024,Graduation,2025-08-19,Baghdad
+E090,C031,Engagement,2025-07-14,Mosul
+E091,C005,Graduation,2025-07-16,Basra
+E092,C020,Wedding,2025-07-27,Erbil
+E093,C024,Graduation,2025-07-30,Baghdad
+E094,C002,Wedding,2025-09-08,Erbil
+E095,C019,Graduation,2025-09-03,Basra
+E096,C004,Engagement,2025-07-12,Basra
+E097,C043,Baby Shower,2025-07-21,Mosul
+E098,C041,Baby Shower,2025-09-08,Najaf
+E099,C006,Wedding,2025-09-20,Erbil
+E100,C032,Wedding,2025-09-21,Mosul
+E101,C045,Engagement,2025-09-19,Mosul
+E102,C042,Wedding,2025-07-07,Najaf
+E103,C006,Birthday,2025-09-02,Najaf
+E104,C049,Engagement,2025-07-30,Mosul
+E105,C046,Birthday,2025-08-20,Basra
+E106,C017,Graduation,2025-09-18,Basra
+E107,C031,Birthday,2025-09-16,Najaf
+E108,C003,Baby Shower,2025-07-06,Mosul
+E109,C023,Baby Shower,2025-07-02,Basra
+E110,C050,Engagement,2025-08-14,Najaf
+E111,C001,Wedding,2025-07-02,Basra
+E112,C042,Graduation,2025-07-04,Mosul
+E113,C046,Graduation,2025-08-03,Erbil
+E114,C033,Baby Shower,2025-09-01,Najaf
+E115,C018,Baby Shower,2025-07-09,Mosul
+E116,C003,Graduation,2025-08-26,Mosul
+E117,C037,Birthday,2025-08-18,Erbil
+E118,C036,Graduation,2025-09-15,Mosul
+E119,C028,Graduation,2025-08-13,Mosul
+E120,C034,Engagement,2025-08-14,Najaf
